@@ -6,8 +6,8 @@ These are the requirements for creating a plugin for RainbowFreedomDev members. 
 
 2) Contact [FoxIshDaBest] (https://github.com/FoxIshDaBest) and tell him what the plugin does, why you think it should be added to RainbowFreedom, and who will develop it.
 
-3) You must have a lot of experience with developing plugins. We do not want bad quality code.
+3) Have a lot of experience with developing plugins. We do not want bad quality code.
 
-4) _Your plugin ***MUST*** be tested!_ This means you have to test it before uploading it to the RainbowFreedomDev organization.
+4) Make sure your plugin was tested and works. This means you have to test it before uploading it to the [RainbowFreedomDev Organization] (https://github.com/RainbowFreedomDev).
 
 After you make your plugin (*that meets all of the requirements*), send Fox an email at foxishdabest@gmail.com
