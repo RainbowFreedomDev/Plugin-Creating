@@ -2,7 +2,7 @@
 
 These are the requirements for creating a plugin for RainbowFreedomDev members. If you are going to create a plugin for RainbowFreedom, you must:
 
-1) Put the main file under "com.RainbowFreedomDev.<Plugin''s Name>.<Main or Plugin''s Name>"
+1) Put the main file under "com.RainbowFreedomDev.<Plugin Name>.<Main or Plugin Name>"
 
 2) Contact [FoxIshDaBest] (https://github.com/FoxIshDaBest) and tell him what the plugin does, why you think it should be added to RainbowFreedom, and who will develop it.
 
