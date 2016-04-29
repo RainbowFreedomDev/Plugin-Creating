@@ -1,6 +1,6 @@
 # Plugin Creating #
 
-These are the requirements for creating a plugin for RainbowFreedomDev members. If you are going to create a plugin for RainbowFreedom, you must:
+>These are the requirements for creating a plugin for RainbowFreedomDev members. If you are going to create a plugin for RainbowFreedom, you must:
 
 1) Put the main file under "com.RainbowFreedomDev.(Plugin Name).(Main or Plugin Name)"
 
