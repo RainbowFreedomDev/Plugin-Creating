@@ -11,3 +11,7 @@ These are the requirements for creating a plugin for RainbowFreedomDev members. 
 4) Make sure your plugin was tested and works. This means you have to test it before uploading it to the [RainbowFreedomDev Organization] (https://github.com/RainbowFreedomDev).
 
 After you make your plugin (*that meets all of the requirements*), send [FoxIshDaBest] (https://github.com/FoxIshDaBest) an email at foxishdabest@gmail.com
+
+# People who bypass these checks #
+    - FoxIshDaBest (@FoxIshDaBest)
+    - Liam Townsley (@DUFCLiam)
